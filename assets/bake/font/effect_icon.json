@@ -1,6 +1,10 @@
 {
   "providers": [
     {
+      "type": "reference",
+      "id": "bake:space"
+    },
+    {
       "type": "bitmap",
       "file": "bake:icon/board.png",
       "chars": ["\uF800"],
