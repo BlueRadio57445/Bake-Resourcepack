@@ -1,0 +1,260 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "bake:space"
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/board.png",
+      "chars": ["\uF800"],
+      "ascent": -41,
+      "height": 24
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/speed.png",
+      "chars": ["\uF801"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/slowness.png",
+      "chars": ["\uF802"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/haste.png",
+      "chars": ["\uF803"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/mining_fatigue.png",
+      "chars": ["\uF804"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/strength.png",
+      "chars": ["\uF805"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/instant_health.png",
+      "chars": ["\uF806"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/instant_damage.png",
+      "chars": ["\uF807"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/jump_boost.png",
+      "chars": ["\uF808"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/nausea.png",
+      "chars": ["\uF809"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/regeneration.png",
+      "chars": ["\uF80A"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/resistance.png",
+      "chars": ["\uF80B"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/fire_resistance.png",
+      "chars": ["\uF80C"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/water_breathing.png",
+      "chars": ["\uF80D"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/invisibility.png",
+      "chars": ["\uF80E"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/blindness.png",
+      "chars": ["\uF80F"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/night_vision.png",
+      "chars": ["\uF810"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/hunger.png",
+      "chars": ["\uF811"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/weakness.png",
+      "chars": ["\uF812"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/poison.png",
+      "chars": ["\uF813"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/wither.png",
+      "chars": ["\uF814"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/health_boost.png",
+      "chars": ["\uF815"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/absorption.png",
+      "chars": ["\uF816"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/saturation.png",
+      "chars": ["\uF817"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/glowing.png",
+      "chars": ["\uF818"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/levitation.png",
+      "chars": ["\uF819"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/luck.png",
+      "chars": ["\uF81A"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/unluck.png",
+      "chars": ["\uF81B"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/slow_falling.png",
+      "chars": ["\uF81C"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/conduit_power.png",
+      "chars": ["\uF81D"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/dolphins_grace.png",
+      "chars": ["\uF81E"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/bad_omen.png",
+      "chars": ["\uF81F"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/hero_of_the_village.png",
+      "chars": ["\uF820"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/darkness.png",
+      "chars": ["\uF821"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/bleed.png",
+      "chars": ["\uF841"],
+      "ascent": -44,
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/stun.png",
+      "chars": ["\uF842"],
+      "ascent": -44,
+      "height": 18
+    }
+  ]
+}
