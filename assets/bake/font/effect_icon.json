@@ -259,7 +259,7 @@
     {
       "type": "bitmap",
       "file": "bake:icon/strong_gravity.png",
-      "chars": ["\uF842"],
+      "chars": ["\uF843"],
       "ascent": -44,
       "height": 18
     }
