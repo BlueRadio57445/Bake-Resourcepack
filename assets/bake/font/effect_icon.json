@@ -255,6 +255,13 @@
       "chars": ["\uF842"],
       "ascent": -44,
       "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "bake:icon/strong_gravity.png",
+      "chars": ["\uF843"],
+      "ascent": -44,
+      "height": 18
     }
   ]
 }
