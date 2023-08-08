@@ -1,0 +1,7 @@
+{
+    "parent": "item/gloves/left_gloves",
+    "textures": {
+        "0": "item/gloves/storm_gloves_left",
+        "particle": "item/gloves/storm_gloves_left"
+	}
+}
