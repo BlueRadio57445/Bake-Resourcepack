@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/prismarine_crystals"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 6001}, "model": "item/quest/necklace"},
+        {"predicate": {"custom_model_data": 13000}, "model": "item/region/key_piece"},
+        {"predicate": {"custom_model_data": 13001}, "model": "item/region/key"}
+    ]
+  }
