@@ -4,6 +4,6 @@
       "layer0": "minecraft:item/nautilus_shell"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 10}, "model": "item/gloves/storm_gloves_left"}
+        {"predicate": {"custom_model_data": 8002}, "model": "item/universe/water_universe"}
     ]
   }
