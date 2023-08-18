@@ -1,0 +1,13 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/ghast_spawn_egg"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 3100}, "model": "item/hammer/oak_hammer"},
+        {"predicate": {"custom_model_data": 3101}, "model": "item/hammer/dark_oak_hammer"},
+        {"predicate": {"custom_model_data": 3102}, "model": "item/hammer/warped_hammer"},
+        {"predicate": {"custom_model_data": 3103}, "model": "item/hammer/crimson_hammer"},
+        {"predicate": {"custom_model_data": 3104}, "model": "item/hammer/obsidian_hammer"}
+    ]
+  }
