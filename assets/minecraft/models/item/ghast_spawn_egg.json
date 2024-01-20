@@ -9,6 +9,7 @@
         {"predicate": {"custom_model_data": 3102}, "model": "item/hammer/warped_hammer"},
         {"predicate": {"custom_model_data": 3103}, "model": "item/hammer/crimson_hammer"},
         {"predicate": {"custom_model_data": 3104}, "model": "item/hammer/obsidian_hammer"},
-        {"predicate": {"custom_model_data": 3105}, "model": "item/hammer/ender_pearl_hammer"}
+        {"predicate": {"custom_model_data": 3105}, "model": "item/hammer/ender_pearl_hammer"},
+        {"predicate": {"custom_model_data": 3107}, "model": "item/hammer/cursed_pan"}
     ]
   }
