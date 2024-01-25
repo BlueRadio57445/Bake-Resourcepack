@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_crystal3",
+  "textures": {
+		"0": "block/crystal",
+		"particle": "block/crystal"
+	}
+}
