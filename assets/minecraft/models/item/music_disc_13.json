@@ -4,11 +4,16 @@
     "layer0": "minecraft:item/music_disc_13"
   },
   "overrides": [
-    {
-        "predicate": {
-            "custom_model_data": 1
-        },
-        "model": "item/target/toast"
-    }
-]
+    {"predicate": {"custom_model_data": 1},"model": "item/target/toast"},
+    {"predicate": {"custom_model_data": 2},"model": "item/target/egg_and_milk"},
+    {"predicate": {"custom_model_data": 3},"model": "item/target/salt"},
+    {"predicate": {"custom_model_data": 4},"model": "item/target/yeast"},
+    {"predicate": {"custom_model_data": 5},"model": "item/target/water"},
+    {"predicate": {"custom_model_data": 6},"model": "item/target/flour"},
+    {"predicate": {"custom_model_data": 7},"model": "item/target/butter"},
+    {"predicate": {"custom_model_data": 8},"model": "item/target/sugar"},
+    {"predicate": {"custom_model_data": 9},"model": "item/target/three_color_bean"},
+    {"predicate": {"custom_model_data": 10},"model": "item/target/chocolate"},
+    {"predicate": {"custom_model_data": 11},"model": "item/target/coriandrum_sativum"}
+  ]
 }
